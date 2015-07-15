@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+<LINK href="styles/style1.css" rel="stylesheet" type="text/css">	
+    <title>My Test site</title>
+    <meta charset="utf-8">
+    <style></style>
+  </head>
+  <body>
+
+	<h1>this is the share all with all website</h1>
+	<img src="images/SAWA_web-01.png" width="160" height="160" align="middle" border="0">
+	<p>I wonder if I should use the big image file for printing purposes or to keep it in the frig as long as I don't have other options where to put it.</p>
+	<hr>
+	
+	<p>sometimes it's better to just share a smaller logo. this one is suitable for every web purpose.</p>
+	<p>In fact, this page informs you about the life of a German family in a remote area of Western Kenya. I offer you a lot of ...</p>
+		<ul><LI>wallpapers</LI><li>photos</li><li>stories</li></ul>
+	<button>Change user</button>
+	<script src="scripts/main.js"></script>
+
+</body>
+</html>
